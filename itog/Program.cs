@@ -1,6 +1,4 @@
-﻿// Вводим исходный массив строк с клавиатуры
-
-using System;
+﻿using System;
 using static System.Console;
 
 Clear();
